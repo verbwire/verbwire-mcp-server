@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Model Context Protocol server for Verbwire API",
   "main": "server.js",
+  "bin": {
+    "verbwire-mcp-server": "./server.js"
+  },
   "type": "module",
   "scripts": {
     "start": "node server.js"
