@@ -67,7 +67,7 @@ Add this to your `claude_desktop_config.json`:
       "command": "npx",
       "args": [
         "-y",
-        "verbwire-mcp-server"
+        "@verbwire/verbwire-mcp-server"
       ],
       "env": {
         "VERBWIRE_API_KEY": "YOUR_API_KEY_HERE"

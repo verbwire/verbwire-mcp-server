@@ -1,5 +1,5 @@
 {
-  "name": "@verbwire/mcp-server",
+  "name": "@verbwire/verbwire-mcp-server",
   "version": "0.1.0",
   "description": "Model Context Protocol server for Verbwire API",
   "main": "server.js",
