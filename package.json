@@ -1,6 +1,6 @@
 {
   "name": "@verbwire/verbwire-mcp-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Model Context Protocol server for Verbwire API",
   "main": "server.js",
   "bin": {
@@ -18,4 +18,4 @@
     "dotenv": "^16.3.1",
     "form-data": "^4.0.0"
   }
-} 
+}
