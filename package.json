@@ -1,0 +1,18 @@
+{
+  "name": "@verbwire/mcp-server",
+  "version": "0.1.0",
+  "description": "Model Context Protocol server for Verbwire API",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.7.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "form-data": "^4.0.0"
+  }
+} 
